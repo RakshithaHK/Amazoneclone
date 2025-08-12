@@ -15,8 +15,7 @@ A responsive frontend clone of the Amazon website built with modern web technolo
 ## 📁 Technologies Used
 
 - HTML5
-- CSS3 / Tailwind / Bootstrap *(update as per your stack)*
-- JavaScript / React *(update if applicable)*
+- CSS3 / Tailwind 
 - Responsive Design (Media Queries / Flexbox / Grid)
 
 
